@@ -1,0 +1,18 @@
+# 数据集（几十 MB，不进 git，跑一次自动下载）
+data/
+
+# 模型权重
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 环境
+.venv/
+venv/
+
+# macOS
+.DS_Store
